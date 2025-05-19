@@ -1,0 +1,7 @@
+2025-05-19 20:23:02,995 INFO    MainThread:63855 [wandb_init.py:setup_run_log_directory():724] Logging user logs to /Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250519_202302-k9uj4mpy/logs/debug.log
+2025-05-19 20:23:02,995 INFO    MainThread:63855 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to /Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250519_202302-k9uj4mpy/logs/debug-internal.log
+2025-05-19 20:23:02,995 INFO    MainThread:63855 [wandb_init.py:init():852] calling init triggers
+2025-05-19 20:23:02,995 INFO    MainThread:63855 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'epochs': 10, '_wandb': {}}
+2025-05-19 20:23:02,995 INFO    MainThread:63855 [wandb_init.py:init():893] starting backend
+2025-05-19 20:23:02,995 INFO    MainThread:63855 [wandb_init.py:init():897] sending inform_init request

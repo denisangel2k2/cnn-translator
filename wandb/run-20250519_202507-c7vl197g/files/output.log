@@ -1,0 +1,16 @@
+Epoch 1/10
+--------------------
+Batch 1/19073
+--------------------
+Output shape: torch.Size([32, 517, 266])
+Target shape: torch.Size([32, 517])
+Loss: 5.628004550933838
+Batch 2/19073
+--------------------
+Output shape: torch.Size([32, 430, 266])
+Target shape: torch.Size([32, 430])
+Loss: 5.090810298919678
+Batch 3/19073
+--------------------
+Output shape: torch.Size([32, 673, 266])
+Target shape: torch.Size([32, 673])

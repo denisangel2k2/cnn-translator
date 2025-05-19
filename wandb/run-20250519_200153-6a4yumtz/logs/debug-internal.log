@@ -1,0 +1,16 @@
+{"time":"2025-05-19T20:01:54.249444+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250519_200153-6a4yumtz/logs/debug-core.log"}
+{"time":"2025-05-19T20:01:54.543247+03:00","level":"INFO","msg":"created new stream","id":"6a4yumtz"}
+{"time":"2025-05-19T20:01:54.543314+03:00","level":"INFO","msg":"stream: started","id":"6a4yumtz"}
+{"time":"2025-05-19T20:01:54.543322+03:00","level":"INFO","msg":"handler: started","stream_id":"6a4yumtz"}
+{"time":"2025-05-19T20:01:54.543326+03:00","level":"INFO","msg":"sender: started","stream_id":"6a4yumtz"}
+{"time":"2025-05-19T20:01:54.543344+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"6a4yumtz"}
+{"time":"2025-05-19T20:01:54.843758+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-19T20:03:17.021373+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-19T20:03:17.021949+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-19T20:03:17.894507+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-19T20:03:18.034397+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.139102667}],"total_operations":1}}
+{"time":"2025-05-19T20:03:18.167618+03:00","level":"INFO","msg":"stream: closing","id":"6a4yumtz"}
+{"time":"2025-05-19T20:03:18.167826+03:00","level":"INFO","msg":"handler: closed","stream_id":"6a4yumtz"}
+{"time":"2025-05-19T20:03:18.167868+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"6a4yumtz"}
+{"time":"2025-05-19T20:03:18.167919+03:00","level":"INFO","msg":"sender: closed","stream_id":"6a4yumtz"}
+{"time":"2025-05-19T20:03:18.167931+03:00","level":"INFO","msg":"stream: closed","id":"6a4yumtz"}

@@ -1,0 +1,21 @@
+{"time":"2025-05-19T19:43:41.769412+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250519_194341-t6dbvd1q/logs/debug-core.log"}
+{"time":"2025-05-19T19:43:42.173754+03:00","level":"INFO","msg":"created new stream","id":"t6dbvd1q"}
+{"time":"2025-05-19T19:43:42.173796+03:00","level":"INFO","msg":"stream: started","id":"t6dbvd1q"}
+{"time":"2025-05-19T19:43:42.173827+03:00","level":"INFO","msg":"handler: started","stream_id":"t6dbvd1q"}
+{"time":"2025-05-19T19:43:42.17384+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"t6dbvd1q"}
+{"time":"2025-05-19T19:43:42.173889+03:00","level":"INFO","msg":"sender: started","stream_id":"t6dbvd1q"}
+{"time":"2025-05-19T19:43:42.468454+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-19T19:46:16.636427+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-19T19:46:16.637777+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-19T19:46:20.984181+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-19T19:46:20.995073+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-19T19:46:22.332394+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-19T19:46:22.338461+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-19T19:46:22.33849+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-19T19:46:23.16939+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-19T19:46:23.346877+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary, console lines 0-1","runtime_seconds":0.177304792}],"total_operations":1}}
+{"time":"2025-05-19T19:46:23.430893+03:00","level":"INFO","msg":"stream: closing","id":"t6dbvd1q"}
+{"time":"2025-05-19T19:46:23.430982+03:00","level":"INFO","msg":"handler: closed","stream_id":"t6dbvd1q"}
+{"time":"2025-05-19T19:46:23.431011+03:00","level":"INFO","msg":"sender: closed","stream_id":"t6dbvd1q"}
+{"time":"2025-05-19T19:46:23.431004+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"t6dbvd1q"}
+{"time":"2025-05-19T19:46:23.431308+03:00","level":"INFO","msg":"stream: closed","id":"t6dbvd1q"}

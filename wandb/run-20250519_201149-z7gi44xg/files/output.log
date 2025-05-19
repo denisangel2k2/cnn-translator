@@ -1,0 +1,8 @@
+Batch 1 - Output shape: torch.Size([32, 297, 266]), Strides: (79002, 266, 1)
+Batch 1 - Target shape: torch.Size([32, 297]), Strides: (298, 1)
+Batch 1 - Reshaped Output shape: torch.Size([9504, 266]), Strides: (266, 1)
+Batch 1 - Reshaped Target shape: torch.Size([9504]), Strides: (1,)
+Source vocab size: 249
+Target vocab size: 266
+/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/torch/nn/modules/rnn.py:123: UserWarning: dropout option adds dropout after all but last recurrent layer, so non-zero dropout expects num_layers greater than 1, but got dropout=0.2 and num_layers=1
+  warnings.warn(

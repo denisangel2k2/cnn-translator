@@ -1,0 +1,21 @@
+{"time":"2025-05-19T20:15:56.775665+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250519_201555-z85w3p64/logs/debug-core.log"}
+{"time":"2025-05-19T20:15:57.064888+03:00","level":"INFO","msg":"created new stream","id":"z85w3p64"}
+{"time":"2025-05-19T20:15:57.065019+03:00","level":"INFO","msg":"stream: started","id":"z85w3p64"}
+{"time":"2025-05-19T20:15:57.065018+03:00","level":"INFO","msg":"handler: started","stream_id":"z85w3p64"}
+{"time":"2025-05-19T20:15:57.065034+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"z85w3p64"}
+{"time":"2025-05-19T20:15:57.065036+03:00","level":"INFO","msg":"sender: started","stream_id":"z85w3p64"}
+{"time":"2025-05-19T20:15:57.329731+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-19T20:17:19.059586+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-19T20:17:19.06068+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-19T20:17:22.647985+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-19T20:17:22.664037+03:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-05-19T20:17:24.047659+03:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-05-19T20:17:24.060183+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-19T20:17:24.060234+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-19T20:17:24.901309+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-19T20:17:25.064933+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.163551292}],"total_operations":1}}
+{"time":"2025-05-19T20:17:25.152958+03:00","level":"INFO","msg":"stream: closing","id":"z85w3p64"}
+{"time":"2025-05-19T20:17:25.15298+03:00","level":"INFO","msg":"handler: closed","stream_id":"z85w3p64"}
+{"time":"2025-05-19T20:17:25.15299+03:00","level":"INFO","msg":"sender: closed","stream_id":"z85w3p64"}
+{"time":"2025-05-19T20:17:25.152987+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"z85w3p64"}
+{"time":"2025-05-19T20:17:25.153119+03:00","level":"INFO","msg":"stream: closed","id":"z85w3p64"}
