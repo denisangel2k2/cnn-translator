@@ -1,0 +1,16 @@
+{"time":"2025-05-25T20:41:49.086267+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250525_204148-dfaxkpvn/logs/debug-core.log"}
+{"time":"2025-05-25T20:41:49.274399+03:00","level":"INFO","msg":"created new stream","id":"dfaxkpvn"}
+{"time":"2025-05-25T20:41:49.274447+03:00","level":"INFO","msg":"stream: started","id":"dfaxkpvn"}
+{"time":"2025-05-25T20:41:49.274451+03:00","level":"INFO","msg":"handler: started","stream_id":"dfaxkpvn"}
+{"time":"2025-05-25T20:41:49.274458+03:00","level":"INFO","msg":"sender: started","stream_id":"dfaxkpvn"}
+{"time":"2025-05-25T20:41:49.274461+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"dfaxkpvn"}
+{"time":"2025-05-25T20:41:49.536608+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-25T20:42:17.518288+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-25T20:42:17.518385+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-25T20:42:18.230143+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-25T20:42:18.446054+03:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-05-25T20:42:18.451361+03:00","level":"INFO","msg":"stream: closing","id":"dfaxkpvn"}
+{"time":"2025-05-25T20:42:18.451392+03:00","level":"INFO","msg":"handler: closed","stream_id":"dfaxkpvn"}
+{"time":"2025-05-25T20:42:18.451421+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dfaxkpvn"}
+{"time":"2025-05-25T20:42:18.451429+03:00","level":"INFO","msg":"sender: closed","stream_id":"dfaxkpvn"}
+{"time":"2025-05-25T20:42:18.45167+03:00","level":"INFO","msg":"stream: closed","id":"dfaxkpvn"}

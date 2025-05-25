@@ -1,0 +1,59 @@
+2025-05-25 21:01:53,968 INFO    MainThread:10921 [wandb_init.py:setup_run_log_directory():724] Logging user logs to /Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250525_210153-szzcphpu/logs/debug.log
+2025-05-25 21:01:53,969 INFO    MainThread:10921 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to /Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250525_210153-szzcphpu/logs/debug-internal.log
+2025-05-25 21:01:53,969 INFO    MainThread:10921 [wandb_init.py:init():852] calling init triggers
+2025-05-25 21:01:53,969 INFO    MainThread:10921 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2025-05-25 21:02:21,108 WARNING MainThread:10921 [wandb_init.py:init():1681] [no run ID] interrupted
+Traceback (most recent call last):
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 1677, in init
+    return wi.init(run_settings, run_config, run_printer)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/wandb_init.py", line 873, in init
+    self._wl.finish_all_active_runs()
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/wandb_setup.py", line 152, in finish_all_active_runs
+    run.finish()
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 503, in wrapper
+    return func(self, *args, **kwargs)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 451, in wrapper
+    return func(self, *args, **kwargs)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2309, in finish
+    return self._finish(exit_code)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 406, in wrapper
+    return func(self, *args, **kwargs)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2337, in _finish
+    self._atexit_cleanup(exit_code=exit_code)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2550, in _atexit_cleanup
+    self._on_finish()
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/wandb_run.py", line 2806, in _on_finish
+    wait_with_progress(
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 24, in wait_with_progress
+    return wait_all_with_progress(
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/mailbox/wait_with_progress.py", line 87, in wait_all_with_progress
+    return asyncio_compat.run(progress_loop_with_timeout)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/lib/asyncio_compat.py", line 30, in run
+    return future.result()
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/concurrent/futures/_base.py", line 441, in result
+    self._condition.wait(timeout)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/threading.py", line 312, in wait
+    waiter.acquire()
+KeyboardInterrupt
+2025-05-25 21:02:21,109 WARNING MsgRouterThr:10921 [router.py:message_loop():63] [no run ID] message_loop has been closed
+Traceback (most recent call last):
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/interface/router_sock.py", line 27, in _read_message
+    return self._sock_client.read_server_response(timeout=1)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 235, in read_server_response
+    data = self._read_packet_bytes(timeout=timeout)
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/lib/sock_client.py", line 220, in _read_packet_bytes
+    raise SockClientClosedError
+wandb.sdk.lib.sock_client.SockClientClosedError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/interface/router.py", line 56, in message_loop
+    msg = self._read_message()
+  File "/opt/homebrew/Caskroom/miniconda/base/envs/deeplearning-env/lib/python3.9/site-packages/wandb/sdk/interface/router_sock.py", line 29, in _read_message
+    raise MessageRouterClosedError from e
+wandb.sdk.interface.router.MessageRouterClosedError
+2025-05-25 21:02:21,126 INFO    MsgRouterThr:10921 [mailbox.py:close():129] [no run ID] Closing mailbox, abandoning 10 handles.

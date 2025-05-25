@@ -1,0 +1,16 @@
+{"time":"2025-05-25T20:29:12.051332+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250525_202910-zqb3i1nw/logs/debug-core.log"}
+{"time":"2025-05-25T20:29:12.236317+03:00","level":"INFO","msg":"created new stream","id":"zqb3i1nw"}
+{"time":"2025-05-25T20:29:12.236463+03:00","level":"INFO","msg":"stream: started","id":"zqb3i1nw"}
+{"time":"2025-05-25T20:29:12.236466+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"zqb3i1nw"}
+{"time":"2025-05-25T20:29:12.236475+03:00","level":"INFO","msg":"handler: started","stream_id":"zqb3i1nw"}
+{"time":"2025-05-25T20:29:12.236485+03:00","level":"INFO","msg":"sender: started","stream_id":"zqb3i1nw"}
+{"time":"2025-05-25T20:29:12.51458+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-25T20:41:48.0177+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-25T20:41:48.017784+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-25T20:41:48.828149+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-25T20:41:49.028285+03:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading summary","runtime_seconds":0.199951916}],"total_operations":1}}
+{"time":"2025-05-25T20:41:49.084797+03:00","level":"INFO","msg":"stream: closing","id":"zqb3i1nw"}
+{"time":"2025-05-25T20:41:49.084823+03:00","level":"INFO","msg":"handler: closed","stream_id":"zqb3i1nw"}
+{"time":"2025-05-25T20:41:49.084835+03:00","level":"INFO","msg":"sender: closed","stream_id":"zqb3i1nw"}
+{"time":"2025-05-25T20:41:49.084831+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zqb3i1nw"}
+{"time":"2025-05-25T20:41:49.084977+03:00","level":"INFO","msg":"stream: closed","id":"zqb3i1nw"}

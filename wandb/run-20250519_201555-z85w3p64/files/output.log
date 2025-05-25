@@ -1,6 +1,0 @@
-Batch 1 - Output shape before contiguous: torch.Size([32, 343, 266]), Strides: (91238, 266, 1)
-Batch 1 - Output shape after contiguous: torch.Size([32, 343, 266]), Strides: (91238, 266, 1)
-Batch 1 - Target shape before contiguous: torch.Size([32, 343]), Strides: (344, 1)
-Batch 1 - Target shape after contiguous: torch.Size([32, 343]), Strides: (343, 1)
-Batch 1 - Reshaped Output shape: torch.Size([10976, 266]), Strides: (266, 1)
-Batch 1 - Reshaped Target shape: torch.Size([10976]), Strides: (1,)

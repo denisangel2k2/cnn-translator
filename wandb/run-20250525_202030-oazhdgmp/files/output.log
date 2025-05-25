@@ -1,0 +1,11 @@
+Epoch: 01 | Train Loss: 5.691 | Val Loss: 5.049 | BLEU: 1.30
+Epoch: 02 | Train Loss: 5.243 | Val Loss: 4.972 | BLEU: 1.73
+Epoch: 03 | Train Loss: 5.059 | Val Loss: 5.019 | BLEU: 1.58
+Epoch: 04 | Train Loss: 4.927 | Val Loss: 4.974 | BLEU: 1.82
+Epoch: 05 | Train Loss: 4.796 | Val Loss: 5.073 | BLEU: 1.55
+Epoch: 06 | Train Loss: 4.700 | Val Loss: 5.030 | BLEU: 1.89
+Epoch: 07 | Train Loss: 4.578 | Val Loss: 5.040 | BLEU: 1.80
+Epoch: 08 | Train Loss: 4.530 | Val Loss: 5.126 | BLEU: 1.88
+Epoch: 09 | Train Loss: 4.438 | Val Loss: 5.126 | BLEU: 1.78
+Epoch: 10 | Train Loss: 4.392 | Val Loss: 5.089 | BLEU: 1.87
+Translated sentence: nu <unk>

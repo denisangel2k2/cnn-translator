@@ -1,3 +1,0 @@
-Spacy tokenizer: ['Hello', ',', 'how', 'are', 'you', '?'], ['Bună', ',', 'ce', 'mai', 'faci', '?']
-Source vocab size: 249
-Target vocab size: 266

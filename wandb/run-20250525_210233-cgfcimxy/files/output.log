@@ -1,0 +1,12 @@
+Epoch: 01 | Train Loss: 5.923 | Val Loss: 4.940 | BLEU: 2.44
+Epoch: 02 | Train Loss: 4.745 | Val Loss: 4.607 | BLEU: 4.38
+Epoch: 03 | Train Loss: 4.308 | Val Loss: 4.439 | BLEU: 5.88
+Epoch: 04 | Train Loss: 3.945 | Val Loss: 4.387 | BLEU: 6.43
+Epoch: 05 | Train Loss: 3.665 | Val Loss: 4.342 | BLEU: 6.43
+Epoch: 06 | Train Loss: 3.377 | Val Loss: 4.387 | BLEU: 6.62
+Epoch: 07 | Train Loss: 3.129 | Val Loss: 4.353 | BLEU: 7.01
+Epoch: 08 | Train Loss: 2.933 | Val Loss: 4.352 | BLEU: 7.18
+Epoch: 09 | Train Loss: 2.764 | Val Loss: 4.440 | BLEU: 6.59
+Epoch: 10 | Train Loss: 2.604 | Val Loss: 4.347 | BLEU: 8.50
+Translated sentence: sunt student.
+Translated sentence: tom este foarte nefericit.

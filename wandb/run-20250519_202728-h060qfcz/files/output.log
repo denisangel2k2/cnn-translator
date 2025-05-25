@@ -1,6 +1,0 @@
-Epoch 1/10
---------------------
-Batch 1/19073
---------------------
-Output shape: torch.Size([32, 332, 266])
-Target shape: torch.Size([32, 332])

@@ -1,0 +1,43 @@
+Epoch: 01 | Train Loss: 2.451 | Val Loss: 4.362 | BLEU: 8.81
+Epoch: 02 | Train Loss: 2.310 | Val Loss: 4.441 | BLEU: 8.92
+Epoch: 03 | Train Loss: 2.194 | Val Loss: 4.465 | BLEU: 8.44
+Epoch: 04 | Train Loss: 2.081 | Val Loss: 4.474 | BLEU: 9.16
+Epoch: 05 | Train Loss: 1.996 | Val Loss: 4.489 | BLEU: 9.74
+Epoch: 06 | Train Loss: 1.900 | Val Loss: 4.540 | BLEU: 8.95
+Epoch: 07 | Train Loss: 1.806 | Val Loss: 4.625 | BLEU: 9.33
+Epoch: 08 | Train Loss: 1.743 | Val Loss: 4.624 | BLEU: 9.54
+Epoch: 09 | Train Loss: 1.672 | Val Loss: 4.617 | BLEU: 10.14
+Epoch: 10 | Train Loss: 1.639 | Val Loss: 4.600 | BLEU: 10.21
+Epoch: 11 | Train Loss: 1.562 | Val Loss: 4.674 | BLEU: 10.03
+Epoch: 12 | Train Loss: 1.572 | Val Loss: 4.584 | BLEU: 10.32
+Epoch: 13 | Train Loss: 1.498 | Val Loss: 4.651 | BLEU: 10.33
+Epoch: 14 | Train Loss: 1.452 | Val Loss: 4.691 | BLEU: 10.28
+Epoch: 15 | Train Loss: 1.402 | Val Loss: 4.721 | BLEU: 11.14
+Epoch: 16 | Train Loss: 1.385 | Val Loss: 4.725 | BLEU: 11.29
+Epoch: 17 | Train Loss: 1.328 | Val Loss: 4.787 | BLEU: 11.39
+Epoch: 18 | Train Loss: 1.297 | Val Loss: 4.790 | BLEU: 11.36
+Epoch: 19 | Train Loss: 1.261 | Val Loss: 4.800 | BLEU: 11.31
+Epoch: 20 | Train Loss: 1.244 | Val Loss: 4.858 | BLEU: 11.25
+Epoch: 21 | Train Loss: 1.228 | Val Loss: 4.818 | BLEU: 11.57
+Epoch: 22 | Train Loss: 1.195 | Val Loss: 4.861 | BLEU: 12.20
+Epoch: 23 | Train Loss: 1.149 | Val Loss: 4.907 | BLEU: 12.33
+Epoch: 24 | Train Loss: 1.146 | Val Loss: 4.912 | BLEU: 12.21
+Epoch: 25 | Train Loss: 1.166 | Val Loss: 4.903 | BLEU: 12.41
+Epoch: 26 | Train Loss: 1.159 | Val Loss: 4.857 | BLEU: 12.80
+Epoch: 27 | Train Loss: 1.086 | Val Loss: 4.907 | BLEU: 13.47
+Epoch: 28 | Train Loss: 1.064 | Val Loss: 4.916 | BLEU: 13.02
+Epoch: 29 | Train Loss: 1.067 | Val Loss: 4.951 | BLEU: 13.39
+Epoch: 30 | Train Loss: 1.014 | Val Loss: 4.962 | BLEU: 13.12
+Translated sentence: tom este foarte atent.
+Translated sentence: <unk> tare, <unk> corespund <unk> <unk> <unk>
+Translated sentence: <unk> tare, <unk> corespund <unk> <unk> <unk>
+Translated sentence: <unk> <unk> <unk> <unk>
+Translated sentence: <unk> <unk> <unk> <unk>
+Translated sentence: <unk> este o ţară foarte util.
+Translated sentence: el este foarte <unk>
+Translated sentence: el este foarte inteligent.
+Translated sentence: azi va <unk>
+Translated sentence: azi va fi o zi lungă.
+Translated sentence: azi va fi o zi lungă.
+Translated sentence: azi va fi o aventură putere <unk>
+Translated sentence: el este foarte tristă.

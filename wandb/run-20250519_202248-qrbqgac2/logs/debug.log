@@ -1,6 +1,0 @@
-2025-05-19 20:22:48,715 INFO    MainThread:63855 [wandb_init.py:setup_run_log_directory():724] Logging user logs to /Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250519_202248-qrbqgac2/logs/debug.log
-2025-05-19 20:22:48,715 INFO    MainThread:63855 [wandb_init.py:setup_run_log_directory():725] Logging internal logs to /Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250519_202248-qrbqgac2/logs/debug-internal.log
-2025-05-19 20:22:48,715 INFO    MainThread:63855 [wandb_init.py:monkeypatch_ipython():643] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x39d0d7100>
-2025-05-19 20:22:48,715 INFO    MainThread:63855 [wandb_init.py:init():852] calling init triggers
-2025-05-19 20:22:48,715 INFO    MainThread:63855 [wandb_init.py:init():857] wandb.init called with sweep_config: {}
-config: {'epochs': 10, '_wandb': {}}

@@ -1,2 +1,0 @@
-Output shape before reshape: torch.Size([32, 328, 266])
-Output strides before reshape: (87248, 266, 1)

@@ -1,0 +1,16 @@
+{"time":"2025-05-25T20:20:03.941135+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250525_202002-bojhnmgz/logs/debug-core.log"}
+{"time":"2025-05-25T20:20:04.133515+03:00","level":"INFO","msg":"created new stream","id":"bojhnmgz"}
+{"time":"2025-05-25T20:20:04.133569+03:00","level":"INFO","msg":"stream: started","id":"bojhnmgz"}
+{"time":"2025-05-25T20:20:04.133581+03:00","level":"INFO","msg":"handler: started","stream_id":"bojhnmgz"}
+{"time":"2025-05-25T20:20:04.133609+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"bojhnmgz"}
+{"time":"2025-05-25T20:20:04.133591+03:00","level":"INFO","msg":"sender: started","stream_id":"bojhnmgz"}
+{"time":"2025-05-25T20:20:04.348472+03:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-25T20:20:30.956654+03:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-25T20:20:30.956747+03:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-25T20:20:31.678709+03:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-25T20:20:31.915693+03:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-05-25T20:20:31.923475+03:00","level":"INFO","msg":"stream: closing","id":"bojhnmgz"}
+{"time":"2025-05-25T20:20:31.9235+03:00","level":"INFO","msg":"handler: closed","stream_id":"bojhnmgz"}
+{"time":"2025-05-25T20:20:31.923513+03:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bojhnmgz"}
+{"time":"2025-05-25T20:20:31.923537+03:00","level":"INFO","msg":"sender: closed","stream_id":"bojhnmgz"}
+{"time":"2025-05-25T20:20:31.923728+03:00","level":"INFO","msg":"stream: closed","id":"bojhnmgz"}

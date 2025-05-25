@@ -1,0 +1,11 @@
+Epoch: 01 | Train Loss: 2.033 | Val Loss: 3.822 | BLEU: 10.94
+Epoch: 02 | Train Loss: 1.850 | Val Loss: 3.848 | BLEU: 11.76
+Epoch: 03 | Train Loss: 1.706 | Val Loss: 3.890 | BLEU: 12.25
+Epoch: 04 | Train Loss: 1.571 | Val Loss: 3.927 | BLEU: 12.64
+Epoch: 05 | Train Loss: 1.487 | Val Loss: 3.949 | BLEU: 12.52
+Epoch: 06 | Train Loss: 1.366 | Val Loss: 4.020 | BLEU: 12.40
+Epoch: 07 | Train Loss: 1.272 | Val Loss: 4.044 | BLEU: 13.14
+Epoch: 08 | Train Loss: 1.191 | Val Loss: 4.080 | BLEU: 13.85
+Epoch: 09 | Train Loss: 1.100 | Val Loss: 4.143 | BLEU: 13.28
+Epoch: 10 | Train Loss: 1.050 | Val Loss: 4.193 | BLEU: 13.52
+Translated sentence: sunt bărbat.

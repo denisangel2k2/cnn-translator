@@ -1,0 +1,7 @@
+{"time":"2025-05-25T15:21:17.150418+03:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/denisangel2k2/Documents/Github/cnn-encoder/wandb/run-20250525_152117-9q2uwbct/logs/debug-core.log"}
+{"time":"2025-05-25T15:21:17.48316+03:00","level":"INFO","msg":"created new stream","id":"9q2uwbct"}
+{"time":"2025-05-25T15:21:17.483206+03:00","level":"INFO","msg":"stream: started","id":"9q2uwbct"}
+{"time":"2025-05-25T15:21:17.483237+03:00","level":"INFO","msg":"handler: started","stream_id":"9q2uwbct"}
+{"time":"2025-05-25T15:21:17.483249+03:00","level":"INFO","msg":"sender: started","stream_id":"9q2uwbct"}
+{"time":"2025-05-25T15:21:17.483269+03:00","level":"INFO","msg":"writer: Do: started","stream_id":"9q2uwbct"}
+{"time":"2025-05-25T15:21:17.715855+03:00","level":"INFO","msg":"Starting system monitor"}
