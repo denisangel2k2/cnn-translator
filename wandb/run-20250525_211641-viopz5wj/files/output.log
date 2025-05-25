@@ -41,3 +41,11 @@ Translated sentence: azi va fi o zi lungă.
 Translated sentence: azi va fi o zi lungă.
 Translated sentence: azi va fi o aventură putere <unk>
 Translated sentence: el este foarte tristă.
+Tracing encoder...
+Encoder saved as traced_cnn_encoder.pt
+Tracing decoder...
+Decoder saved as traced_decoder_with_attention.pt
+Source vocabulary saved as source_vocab.json
+Target vocabulary saved as target_vocab.json
+
+Model components and vocabularies saved successfully!
